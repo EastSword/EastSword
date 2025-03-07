@@ -89,24 +89,24 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-🌆 Daytime                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌃 Evening                43 commits          ████████████████░░░░░░░░░   64.18 % 
-🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Tuesday                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Friday                   11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Sunday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -116,17 +116,21 @@ Sunday                   8 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2025 06:11:02 UTC
+ Last Updated on 29/03/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
@@ -153,7 +157,11 @@ No Activity Tracked This Week
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/left.png" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EastSword&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=EastSword&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EastSword&theme=dark&hide_border=true" />
+</picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
@@ -322,7 +330,7 @@ No Activity Tracked This Week
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/bebdfff0e5ea8baf08ab84218731612d1ab1456f.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/icon.png" /></div>
