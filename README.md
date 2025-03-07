@@ -89,24 +89,24 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-🌆 Daytime                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌃 Evening                43 commits          ████████████████░░░░░░░░░   62.32 % 
-🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Tuesday                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Wednesday                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Friday                   13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Sunday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -116,17 +116,21 @@ Sunday                   8 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2025 06:45:27 UTC
+ Last Updated on 29/03/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
@@ -161,7 +165,7 @@ No Activity Tracked This Week
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/base.svg" />
+<img src="github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -317,12 +321,12 @@ No Activity Tracked This Week
     <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
