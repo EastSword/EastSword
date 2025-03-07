@@ -61,6 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Mar 07 - [解析DeepSeek/AI在JS算法识别领域的创新价值](https://mp.weixin.qq.com/s/y0qNu-3ahEH7BkjCIuZHzQ)
+- Feb 26 - [基于DeepSeek/AI的资产测绘与威胁图谱构建](https://mp.weixin.qq.com/s/gySjWc6T0xAGk0i82W6tVQ)
+- Feb 22 - [以F5为例，安全运维人员如何基于DeepSeek快速掌握安全工具](https://mp.weixin.qq.com/s/MPwxDRTcEVYDV2TmwAUaHw)
+- Feb 20 - [基于DeepSeek的WAF绕过技术研究与实践](https://mp.weixin.qq.com/s/EDjfsc6yPTNbgzCcb4lH2w)
+- Feb 19 - [“东方隐侠的日常”表情包正式上架，快来下载使用吧](https://mp.weixin.qq.com/s/ZOvVyZu1KliagJi8nvpmlw)
 <!-- feed end -->
 
 </td></tr>
