@@ -17,11 +17,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/EastSword/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@EastSword"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <!-- <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://twitter.com/VqjIX47lUK5jgwk"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="http://weixin.qq.com/r/th3J0bfEEuptrfOy90ik"><img src="https://img.shields.io/badge/%E4%B8%9C%E6%96%B9%E9%9A%90%E4%BE%A0%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-white?link=http%3A%2F%2Fweixin.qq.com%2Fr%2Fth3J0bfEEuptrfOy90ik?style=social&logo=WeChat" /></a>&emsp;
+    <a href="https://space.bilibili.com/1565697864/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=EastSword&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
@@ -31,9 +29,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -63,7 +61,6 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
 <!-- feed end -->
 
 </td></tr>
@@ -279,9 +276,9 @@ Mac                      16 hrs 22 mins      ███████████�
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -298,31 +295,31 @@ Mac                      16 hrs 22 mins      ███████████�
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
     <td><img src="github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="github-metrics/stars.svg" alt="stars" /></td>
