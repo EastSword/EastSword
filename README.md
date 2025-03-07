@@ -18,7 +18,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://twitter.com/VqjIX47lUK5jgwk"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="http://weixin.qq.com/r/th3J0bfEEuptrfOy90ik"><img src="https://img.shields.io/badge/%E4%B8%9C%E6%96%B9%E9%9A%90%E4%BE%A0%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-white?link=http%3A%2F%2Fweixin.qq.com%2Fr%2Fth3J0bfEEuptrfOy90ik?style=social&logo=WeChat" /></a>&emsp;
+    <a href="http://weixin.qq.com/r/th3J0bfEEuptrfOy90ik"><img src="https://img.shields.io/badge/%E4%B8%9C%E6%96%B9%E9%9A%90%E4%BE%A0%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-ff69b4?link=http%3A%2F%2Fweixin.qq.com%2Fr%2Fth3J0bfEEuptrfOy90ik?style=social&logo=WeChat" /></a>&emsp;
     <a href="https://space.bilibili.com/1565697864/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=EastSword&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
