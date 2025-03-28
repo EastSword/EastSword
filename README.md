@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Mar 26 - [安全驻场周报终结者：AI+Python玩转多维度周报](https://mp.weixin.qq.com/s/wgs65LHPJFrN-stj1z8WLg)
 - Mar 14 - [告别项目延期：智能工时算法如何重塑安全交付价值链](https://mp.weixin.qq.com/s/Danvawwu2rF_7pCudoH6UQ)
 - Mar 07 - [解析DeepSeek/AI在JS算法识别领域的创新价值](https://mp.weixin.qq.com/s/y0qNu-3ahEH7BkjCIuZHzQ)
 - Feb 26 - [基于DeepSeek/AI的资产测绘与威胁图谱构建](https://mp.weixin.qq.com/s/gySjWc6T0xAGk0i82W6tVQ)
 - Feb 22 - [以F5为例，安全运维人员如何基于DeepSeek快速掌握安全工具](https://mp.weixin.qq.com/s/MPwxDRTcEVYDV2TmwAUaHw)
-- Feb 20 - [基于DeepSeek的WAF绕过技术研究与实践](https://mp.weixin.qq.com/s/EDjfsc6yPTNbgzCcb4lH2w)
 <!-- feed end -->
 
 </td></tr>
