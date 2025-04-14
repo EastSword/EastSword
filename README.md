@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/EastSword/EastSword/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Apr 13 - [东方隐侠行韬堂诚聘高级红队精英：以技术为剑，守护数字疆界！](https://mp.weixin.qq.com/s/f0W_oeskOzhytV_VGk1iLw)
 - Apr 11 - [基于 GIS 系统渗透事件，看关键基础设施 "战场预置" 型威胁的攻防博弈与动态防御体系构建](https://mp.weixin.qq.com/s/Z4IxPerhUEaTPrxNBTp1eQ)
 - Apr 01 - [数据安全管理，守护数字时代的“黄金密码”](https://mp.weixin.qq.com/s/ijhtvRddeMv-KnPAeY-2nQ)
 - Mar 26 - [安全驻场周报终结者：AI+Python玩转多维度周报](https://mp.weixin.qq.com/s/wgs65LHPJFrN-stj1z8WLg)
 - Mar 14 - [告别项目延期：智能工时算法如何重塑安全交付价值链](https://mp.weixin.qq.com/s/Danvawwu2rF_7pCudoH6UQ)
-- Mar 07 - [解析DeepSeek/AI在JS算法识别领域的创新价值](https://mp.weixin.qq.com/s/y0qNu-3ahEH7BkjCIuZHzQ)
 <!-- feed end -->
 
 </td></tr>
