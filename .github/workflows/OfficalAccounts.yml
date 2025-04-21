@@ -14,6 +14,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: "http://189.1.221.115:4000/feeds/MP_WXS_3865908576.xml"
+          url: "hhttp://189.1.221.115:4000/feeds/MP_WXS_3865908576.xml"
           file: "README.md"
       - uses: sarisia/actions-commit@master
