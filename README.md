@@ -118,18 +118,17 @@ Sunday                   12 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 mins              ████████████████░░░░░░░░░   65.75 % 
-Python                   2 mins              █████████░░░░░░░░░░░░░░░░   34.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/04/2025 01:39:00 UTC
+ Last Updated on 29/04/2025 01:37:11 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
